@@ -62,9 +62,9 @@ Please submit the `work_dirs/scanqa_test_{split}/test_result.json` to this site 
 
 | Checkpoint           | Link                                                         | Note                                              |
 | :------------------- | ------------------------------------------------------------ | ------------------------------------------------- |
-| VoteNet  | [link comming soon](https://drive.google.com/file/d/1OTj-q4aPmsAg0rSq8T3uqCEUHXuCRQtb/view?usp=drive_link) | VoteNet Pre-trained on ScanNet.                  |
-| DSPNet-ScanQA       | [link comming soon](https://drive.google.com/file/d/1IZs0G8Nt5YAH4fCF3vIZMYQAnkPea-1T/view?usp=drive_link) | Trained on ScanQA.    |
-| DSPNet-SQA          | [link comming soon](https://drive.google.com/file/d/1GZcPQdWkaBqRAcAZkWAASGNDwJ7WD3gA/view?usp=drive_link) | Trained on SQA.       |
+| VoteNet  | [link](https://drive.google.com/file/d/1OTj-q4aPmsAg0rSq8T3uqCEUHXuCRQtb/view?usp=drive_link) | VoteNet Pre-trained on ScanNet.                  |
+| DSPNet-ScanQA       | [link](https://drive.google.com/file/d/1IZs0G8Nt5YAH4fCF3vIZMYQAnkPea-1T/view?usp=drive_link) | Trained on ScanQA.    |
+| DSPNet-SQA          | [link](https://drive.google.com/file/d/1GZcPQdWkaBqRAcAZkWAASGNDwJ7WD3gA/view?usp=drive_link) | Trained on SQA.       |
 
 
 ## 🔗 Citation

@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 tools/train.py \
+configs/sqa/mv-sqa-pointnetpp-swin-sbert-12xb12.py --work-dir=work_dirs/mv-sqa/mv-sqa-pointnetpp-swin-sbert-12xb12 --launcher pytorch

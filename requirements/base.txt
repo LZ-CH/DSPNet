@@ -1,0 +1,5 @@
+mmengine
+numpy
+opencv-python
+torch==2.2.0
+tqdm

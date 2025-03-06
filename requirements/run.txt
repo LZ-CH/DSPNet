@@ -1,0 +1,9 @@
+mmcv==2.1.0
+mmdet
+mmengine
+ninja
+pytorch3d
+transformers
+numba
+tqdm
+einops

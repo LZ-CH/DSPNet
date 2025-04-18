@@ -171,7 +171,7 @@ def process_scene(path, fast, idx):
 
     Extract RGB images, poses and camera intrinsics.
     """
-    if 'scan_test' in path:
+    if 'scans_test' in path:
         output_path = os.path.join('posed_images_test', idx)
     else:
         output_path = os.path.join('posed_images', idx)
